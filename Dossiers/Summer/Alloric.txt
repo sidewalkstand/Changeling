@@ -1,0 +1,28 @@
+Name: Keil Bismuth Alloric
+Court: Summer
+Title/Rank: King
+Motley: none
+Kith: Metalflesh/Fireheart
+Mein: Tall man with metal skin, riveted and dark bronze. His edges are slightly patinaed and rusty. Powerfully built, broad-chested.
+Mask: White male, bald, in his late 40s/early 50s. Handsome, but with hard lines to his face. Broad-shouldered, big hands.
+Mantle: Alloric's mantle manifests as a rushing blast of heat - like standing in front of a blast furnace. 
+
+True Name: ?
+Mortal concerns: real-estate agent, lives in a loft downtown. 
+
+
+
+Goals:
+	- maintain control of city, apparently through any means necessary
+	- force city to swear new oath upon the Ironbone Throne
+
+Weaknesses:
+	- lost the Summer Crown to Bunny
+
+Combat Information:
+	- wields flaming sword
+	- can cause jets of steam to erupt from ground
+	- rides a stallion made of flames/exceptional control of Fire and Summer
+
+Misc. Information:
+	- controls all cold iron in the city
